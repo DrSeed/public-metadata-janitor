@@ -1,0 +1,4 @@
+field,distinct_before,distinct_after,unresolved_rows
+sex,8,2,61
+condition,8,2,29
+age,6,3,32
